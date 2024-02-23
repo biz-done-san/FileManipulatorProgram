@@ -186,7 +186,7 @@ class Helper:
     # [Function Name(Parameters)]           - [Return Value]    : [Overview]
     # ========================================================================================================================
     # isFileExist(filepath)                  - boolean           : Check file exist
-    # inputUserYorN(question)               - boolean           : Input and check the user prompt only Yes or No
+    # inputUserYorN(question)               - int               : Input and check the user prompt only Yes or No
     # canConvertAtoI(s)                     - boolean           : Verify Convertible for the string to integer
     #
 
